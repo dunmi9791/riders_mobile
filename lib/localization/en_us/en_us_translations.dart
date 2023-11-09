@@ -1,0 +1,153 @@
+final Map<String, String> enUs = {
+  // Onboarding Screen
+  "lbl_welcome": "Welcome!",
+
+  // Sign in Screen
+  "lbl_enter_password": "Enter password",
+  "lbl_enter_username": "Enter username",
+  "lbl_password": "Password",
+  "lbl_remember_me": "Remember me?",
+  "lbl_username": "Username",
+  "msg_forgot_password": "Forgot Password?",
+
+  // Details Screen
+  "lbl_001": "001",
+  "lbl_005": "005",
+  "lbl_007": "007",
+  "lbl_3": "3",
+  "lbl_3pl_name": "3PL name:",
+  "lbl_3pl_phone": "3PL phone:",
+  "lbl_details": "Details",
+  "lbl_firts": "firts",
+  "lbl_hpv": "hpv",
+  "lbl_items_delivered": "Items Delivered",
+  "lbl_n_a": "N/A",
+  "lbl_sample_received": "Sample Received",
+  "lbl_sample_sent": "Sample Sent",
+  "lbl_second": "second",
+  "lbl_sending_staff": "Sending staff:",
+  "lbl_specimen_type": "Specimen type:",
+  "lbl_st_2023_01_008": "ST/2023/01 008",
+  "lbl_test2": "test2",
+  "lbl_test_type": "Test type:",
+  "lbl_tester": "tester",
+  "lbl_testt": "testt",
+  "msg_05_10_2022_13_12_20": "05/10/2022  13:12:20",
+  "msg_date_and_time_received": "Date and time received:",
+  "msg_date_time_sent": "Date & time sent:",
+  "msg_delivery_information": "Delivery information",
+  "msg_receiving_facility": "Receiving facility:",
+  "msg_receiving_staff": "Receiving staff:",
+  "msg_sample_transport": "Sample transport no:",
+  "msg_sending_facility": "Sending facility:",
+  "msg_temperature_at_received_time": "Temperature at received\ntime:",
+  "msg_temperature_at_sending": "Temperature at sending time:",
+  "msg_total_samples_received": "Total samples received:",
+  "msg_total_samples_sent": "Total samples sent:",
+
+  // create sample form Screen
+  "lbl_sample_accepted": "Sample accepted",
+  "lbl_sample_received2": "Sample received",
+  "lbl_sample_rejected": "Sample rejected",
+  "lbl_sample_sent2": "Sample sent",
+  "lbl_specimen_type2": "Specimen type",
+  "msg_temperature_at_receiving": "Temperature at receiving time",
+  "msg_temperature_at_sending2": "Temperature at sending time",
+  "msg_total_samples_received2": "Total samples received",
+  "msg_total_samples_sent2": "Total samples sent",
+
+  // create result form Screen
+  "lbl_results_sent": "Results sent",
+  "msg_results_accepted": "Results accepted",
+  "msg_results_received": "Results received",
+  "msg_results_rejected": "Results rejected",
+  "msg_total_results_received": "Total results received",
+  "msg_total_results_sent": "Total results sent",
+
+  // Confirmation success Screen
+  "lbl_return_to_home": "Return to home", "lbl_success": "Success!",
+
+  // Confirmation error Screen
+  "lbl_error": "Error!", "lbl_try_again": "Try Again",
+
+  // Edit profile Screen
+  "lbl_0900_322_67774": "0900 322 67774",
+  "lbl_email": "Email",
+  "lbl_full_name": "Full name",
+  "lbl_phone_number": "Phone number",
+  "lbl_save": "Save",
+
+  // Log Out Screen
+  "lbl_cancel": "Cancel",
+  "msg_are_you_sure_you": "Are you sure you want to log out?",
+
+  // sample Screen
+  "lbl_samp_oooo115": "SAMP OOOO115", "lbl_samp_oooo116": "SAMP OOOO116",
+
+  // result Screen
+  "lbl_res_oooo115": "RES OOOO115",
+  "lbl_res_oooo116": "RES OOOO116",
+  "lbl_res_oooo117": "RES OOOO117",
+  "lbl_res_oooo118": "RES OOOO118",
+  "lbl_res_oooo119": "RES OOOO119",
+  "lbl_res_oooo120": "RES OOOO120",
+  "lbl_res_oooo121": "RES OOOO121",
+  "lbl_res_oooo122": "RES OOOO122",
+  "lbl_res_oooo123": "RES OOOO123",
+
+  // Common String
+  "lbl_0": "0",
+  "lbl_000_000_000": "000-000-000",
+  "lbl_09_00_10_30": "09:00-10:30",
+  "lbl_0_00": "0.00",
+  "lbl_13_01_2023": "13/01/2023",
+  "lbl_15": "15",
+  "lbl_20": "20",
+  "lbl_3pl_name2": "3PL name",
+  "lbl_3pl_phone2": "3PL phone",
+  "lbl_add_a_line": "Add a line",
+  "lbl_cancelled": "Cancelled",
+  "lbl_create_result": "Create Result",
+  "lbl_create_sample": "Create Sample",
+  "lbl_edit_profile": "Edit Profile",
+  "lbl_enter_name": "Enter name",
+  "lbl_log_in": "Log In",
+  "lbl_log_out": "Log out",
+  "lbl_new": "New",
+  "lbl_new_first": "New first",
+  "lbl_patient_code": "Patient code",
+  "lbl_received": "Received",
+  "lbl_receiving_staff": "Receiving staff",
+  "lbl_results": "Results",
+  "lbl_samp_oooo117": "SAMP OOOO117",
+  "lbl_samp_oooo118": "SAMP OOOO118",
+  "lbl_samp_oooo119": "SAMP OOOO119",
+  "lbl_samp_oooo120": "SAMP OOOO120",
+  "lbl_samp_oooo121": "SAMP OOOO121",
+  "lbl_samp_oooo122": "SAMP OOOO122",
+  "lbl_samp_oooo123": "SAMP OOOO123",
+  "lbl_samples": "Samples",
+  "lbl_select": "Select",
+  "lbl_sending_staff2": "Sending staff",
+  "lbl_test_type2": "Test type",
+  "lbl_your_name": "Your Name",
+  "msg_date_and_time_received2": "Date and time received",
+  "msg_date_and_time_sent": "Date and time sent",
+  "msg_greetings_joseph": "Greetings, Joseph!",
+  "msg_life_point_medical": "Life Point Medical Centre",
+  "msg_receiving_facility2": "Receiving facility",
+  "msg_results_collected": "Results Collected",
+  "msg_sample_transport2": "Sample transport no.",
+  "msg_samples_delivered": "Samples Delivered",
+  "msg_sending_facility2": "Sending facility",
+  "msg_youremail_gmail_com": "youremail@gmail.com",
+
+// Network Error String
+  "msg_network_err": "Network Error",
+  "msg_something_went_wrong": "Something Went Wrong!",
+
+  // Validation Error String
+  "err_msg_please_enter_valid_text": "Please enter valid text",
+  "err_msg_please_enter_valid_password": "Please enter valid password",
+  "err_msg_please_enter_valid_email": "Please enter valid email",
+};
